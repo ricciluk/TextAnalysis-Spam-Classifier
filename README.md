@@ -1,1 +1,1 @@
-# TextAnalysis-Spam-Classifier
+# TextAnalysis-SpamClassifier
